@@ -9,11 +9,13 @@ sites:
     method: GET
 
 status-website:
+  cname: keywordnew.github.io/uptime-for-joplin/
+  favicon: https://nilspace.xyz/content/images/size/w256h256/2023/03/icon.png
   baseUrl: /uptime-for-joplin
   name: uptime for Joplin
   logoUrl: https://nilspace.xyz/content/images/size/w256h256/2023/03/icon.png
   introTitle: '(unofficial) Joplin Cloud status page'
-  introMessage: 'check if Joplin Cloud is down, go to GitHub to "Watch" and get notified'
+  introMessage: 'check if Joplin Cloud is down, use [GitHub ↗️](https://github.com/keywordnew/uptime-for-joplin) to "Watch" and get notified'
   navbar:
     - title: Status
       href: /
