@@ -6,10 +6,13 @@ user-agent: keywordnew
 sites:
   - name: Joplin Cloud
     url: https://joplincloud.com
+    method: GET
   - name: Joplin Forum
     url: https://discourse.joplinapp.org
+    method: GET
   - name: Jopling.org
     url: https://joplinapp.org
+    method: GET
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
