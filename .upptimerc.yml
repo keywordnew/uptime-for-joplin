@@ -11,8 +11,9 @@ sites:
 status-website:
   baseUrl: /uptime-for-joplin
   name: uptime for Joplin
-  introTitle: unofficial Joplin Cloud status page
-  introMessage: find out when Joplin Cloud is down
+  logoUrl: https://nilspace.xyz/content/images/size/w256h256/2023/03/icon.png
+  introTitle: '(unofficial) Joplin Cloud status page'
+  introMessage: 'check if Joplin Cloud is down, go to GitHub to "Watch" and get notified'
   navbar:
     - title: Status
       href: /
