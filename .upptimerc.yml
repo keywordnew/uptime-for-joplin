@@ -7,3 +7,14 @@ sites:
   - name: Joplin Cloud
     url: https://joplincloud.com
     method: GET
+
+status-website:
+  baseUrl: /uptime-for-joplin
+  name: uptime for Joplin
+  introTitle: unofficial Joplin Cloud status page
+  introMessage: find out when Joplin Cloud is down
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
