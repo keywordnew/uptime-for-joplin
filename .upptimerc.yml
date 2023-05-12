@@ -1,31 +1,20 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: keywordnew # Your GitHub organization or username, where this repository lives
+repo: uptime-for-joplin # The name of this repository
+user-agent: keywordnew
 
 sites:
   - name: Joplin Cloud
-    url: https://joplincloud.com/
-  - name: Joplin Forum
-    url: https://discourse.joplinapp.org/
-  - name: Jopling.org
-    url: https://joplinapp.org/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://joplincloud.com
+    method: GET
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /uptime-for-joplin
+  name: uptime for Joplin
+  introTitle: unofficial Joplin Cloud status page
+  introMessage: find out when Joplin Cloud is down
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
