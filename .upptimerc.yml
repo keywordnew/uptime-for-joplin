@@ -1,6 +1,7 @@
 # Change these first
 owner: keywordnew # Your GitHub organization or username, where this repository lives
 repo: uptime-for-joplin # The name of this repository
+user-agent: keywordnew
 
 sites:
   - name: Joplin Cloud
