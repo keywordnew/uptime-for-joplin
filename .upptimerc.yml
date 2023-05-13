@@ -9,7 +9,6 @@ sites:
     method: GET
 
 status-website:
-  cname: keywordnew.github.io/uptime-for-joplin/
   favicon: https://nilspace.xyz/content/images/size/w256h256/2023/03/icon.png
   baseUrl: /uptime-for-joplin
   name: uptime for Joplin
