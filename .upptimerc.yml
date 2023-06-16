@@ -13,9 +13,10 @@ status-website:
   name: uptime for Joplin
   logoUrl: https://nilspace.xyz/content/images/size/w256h256/2023/03/icon.png
   introTitle: '(unofficial) Joplin Cloud status page'
-  introMessage: 'check if Joplin Cloud is down, use [GitHub ↗️](https://github.com/keywordnew/uptime-for-joplin) to "Watch" and get notified'
+  introMessage: 'check if Joplin Cloud is down, use [GitHub ↗](https://github.com/keywordnew/uptime-for-joplin) to "Watch" and get notified'
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  footer: Powered by [open source ↗](https://github.com/keywordnew/uptime-for-joplin), maintained by [nilspace ↗](https://manil.xyz/).
