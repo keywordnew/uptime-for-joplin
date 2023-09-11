@@ -10,7 +10,7 @@ sites:
 status-website:
   favicon: https://nilspace.xyz/content/images/size/w256h256/2023/03/icon.png
   baseUrl: /uptime-for-joplin
-  name: uptime for Joplin
+  name: uptime for Joplin Cloud
   logoUrl: https://nilspace.xyz/content/images/size/w256h256/2023/03/icon.png
   introTitle: '(unofficial) Joplin Cloud status page'
   introMessage: 'check if Joplin Cloud is down, use [GitHub ↗](https://github.com/keywordnew/uptime-for-joplin) to "Watch" and get notified'
