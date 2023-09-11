@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟥 Complete outage**
+# [📈 Live Status](https://keywordnew.github.io/uptime-for-joplin/): <!--live status--> **🟥 Complete outage**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
