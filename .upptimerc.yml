@@ -3,15 +3,18 @@ repo: uptime-for-joplin
 user-agent: keywordnew
 
 sites:
-  - name: Joplin Cloud
+  - name: Joplin Cloud dashboard
     url: https://joplincloud.com
+    method: GET
+  - name: Joplin Cloud API
+    url: https://api.joplincloud.com
     method: GET
 
 status-website:
-  favicon: https://nilspace.xyz/content/images/size/w256h256/2023/03/icon.png
+  favicon: https://manil.net/content/images/size/w256h256/2023/03/icon.png
   baseUrl: /uptime-for-joplin
   name: uptime for Joplin Cloud
-  logoUrl: https://nilspace.xyz/content/images/size/w256h256/2023/03/icon.png
+  logoUrl: https://manil.net/content/images/size/w256h256/2023/03/icon.png
   introTitle: '(unofficial) Joplin Cloud status page'
   introMessage: 'check if Joplin Cloud is down, use [GitHub ↗](https://github.com/keywordnew/uptime-for-joplin) to "Watch" and get notified'
   navbar:
