@@ -4,7 +4,7 @@
     "url": "https://joplincloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/joplincloud.com.ico",
     "slug": "joplin-cloud-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 626,
     "timeYear": 683,
     "dailyMinutesDown": {
+      "2024-07-25": 0,
       "2024-07-07": 36,
       "2024-06-03": 22,
       "2024-05-26": 478,
@@ -46,7 +47,7 @@
     "timeMonth": 537,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2024-07-25": 33,
+      "2024-07-25": 822,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
