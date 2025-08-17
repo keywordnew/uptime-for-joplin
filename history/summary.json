@@ -6,15 +6,15 @@
     "slug": "joplin-cloud-dashboard",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "98.52%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.05%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.81%",
     "time": 714,
-    "timeDay": 677,
-    "timeWeek": 604,
-    "timeMonth": 642,
-    "timeYear": 722,
+    "timeDay": 623,
+    "timeWeek": 587,
+    "timeMonth": 637,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2025-08-15": 21,
       "2025-08-14": 22,
@@ -45,12 +45,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 533,
-    "timeDay": 593,
-    "timeWeek": 513,
-    "timeMonth": 554,
+    "timeDay": 447,
+    "timeWeek": 515,
+    "timeMonth": 551,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2025-08-16": 44,
+      "2025-08-17": 52,
+      "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -413,8 +414,7 @@
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
-      "2024-08-18": 1440,
-      "2024-08-17": 1440
+      "2024-08-18": 1440
     }
   }
 ]
