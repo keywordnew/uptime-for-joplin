@@ -1,7 +1,7 @@
 url: https://joplincloud.com
-status: up
-code: 200
-responseTime: 543
-lastUpdated: 2025-09-06T23:11:16.216Z
+status: down
+code: 500
+responseTime: 585
+lastUpdated: 2025-09-07T05:32:58.310Z
 startTime: 2024-04-04T10:54:18.281Z
 generator: Upptime <https://github.com/upptime/upptime>
