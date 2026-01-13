@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/joplincloud.com.ico",
     "slug": "joplin-cloud-dashboard",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 753,
-    "timeDay": 707,
-    "timeWeek": 667,
-    "timeMonth": 689,
+    "timeDay": 661,
+    "timeWeek": 691,
+    "timeMonth": 685,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2025-11-15": 25,
@@ -67,12 +67,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 538,
-    "timeDay": 622,
-    "timeWeek": 577,
-    "timeMonth": 569,
+    "timeDay": 475,
+    "timeWeek": 591,
+    "timeMonth": 563,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2026-01-12": 54,
+      "2026-01-13": 46,
+      "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
@@ -435,8 +436,7 @@
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
-      "2025-01-14": 1440,
-      "2025-01-13": 1440
+      "2025-01-14": 1440
     }
   }
 ]
