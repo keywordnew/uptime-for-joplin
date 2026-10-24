@@ -4,17 +4,17 @@
     "url": "https://joplincloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/joplincloud.com.ico",
     "slug": "joplin-cloud-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 894,
-    "timeDay": 1007,
-    "timeWeek": 1091,
-    "timeMonth": 998,
-    "timeYear": 912,
+    "time": 893,
+    "timeDay": 694,
+    "timeWeek": 1002,
+    "timeMonth": 978,
+    "timeYear": 911,
     "dailyMinutesDown": {
       "2025-10-27": 101,
       "2025-10-26": 3,
@@ -32,7 +32,8 @@
       "2026-06-02": 86,
       "2026-06-11": 11,
       "2026-06-10": 43,
-      "2026-07-13": 174
+      "2026-07-13": 174,
+      "2026-10-24": 0
     }
   },
   {
@@ -52,7 +53,7 @@
     "timeMonth": 483,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2026-10-24": 133,
+      "2026-10-24": 1293,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
